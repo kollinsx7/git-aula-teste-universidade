@@ -1,2 +1,2 @@
 # git-aula-teste-universidade
-[linkin kollins] (https://www.linkedin.com/feed/). 
+[linkedlin kollins] (https://www.linkedin.com/feed/). 
